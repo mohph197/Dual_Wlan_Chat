@@ -1,7 +1,7 @@
 # Dual_Wlan_Chat
 to launch from the source code you need to setup SFML first
 
-but you can always try it by launching the executable file in "build/deug"
+but you can always try it by launching the executable file in "bin/Debug"
 
 start an instance of the application in a device and another one in another device
 
