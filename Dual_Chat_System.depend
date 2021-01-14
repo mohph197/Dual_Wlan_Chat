@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610660401 source:c:\users\mohti\desktop\dual_chat_system\main.cpp
+	<iostream>
+	<thread>
+	<SFML/Graphics.hpp>
+	<SFML/Network.hpp>
+
